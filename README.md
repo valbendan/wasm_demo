@@ -1,2 +1,3 @@
-# wasm_demo
+# WASM demo
+
 WASM demo
