@@ -1,2 +1,6 @@
 .idea
 node_modules
+
+# 编译的结果
+demo.wasm
+demo.wat
